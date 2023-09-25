@@ -1,2 +1,1 @@
-come to git school
-second todo
+new lesson git
