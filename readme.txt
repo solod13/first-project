@@ -1,1 +1,0 @@
-It's trening project for work with git and github
